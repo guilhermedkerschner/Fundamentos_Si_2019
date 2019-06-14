@@ -5,6 +5,9 @@ R:  Todo qualquer dado introduzido ao sistema, afim de alimentar o sistema.
 R:  Terão de ser inseridas no sistema para posterior leitura e uso, como exemplo, cadastro de clientes/fornecedores, cadastros de produtos, revisão de documentos, entrevistas.
 
 3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
+R:  back-end - o desenvolvedor que lida com o servidor,
+	front-end - o desenvolvedor que lida com o usuário,
+	full-stack - o profissional que agrega os dois perfis em um só.
 
 4)	Qual a diferença entre frontend e designer?
 
