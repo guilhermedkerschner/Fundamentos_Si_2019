@@ -10,7 +10,9 @@ R:  back-end - o desenvolvedor que lida com o servidor,
 	full-stack - o profissional que agrega os dois perfis em um só.
 
 4)	Qual a diferença entre frontend e designer?
-
+R:  frontend - o desenvolvedor que lida com o usuário,
+	designer - o desenvolvedor que lida com a parte de logos, prototipagens e visuabilidade.
+ 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
