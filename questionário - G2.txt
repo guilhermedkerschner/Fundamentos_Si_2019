@@ -14,6 +14,7 @@ R:  frontend - o desenvolvedor que lida com o usuário,
 	designer - o desenvolvedor que lida com a parte de logos, prototipagens e visuabilidade.
  
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
+R:  DBA - responsável por manter a estabilidade do banco, performance e segurança.
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
