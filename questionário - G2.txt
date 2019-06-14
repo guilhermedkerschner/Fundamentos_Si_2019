@@ -26,6 +26,7 @@ R:  Mantém o código fonte centralizado e seguro; Facilita trabalho em equipes 
 R:  Melhor distribuição de tarefas, melhor aproveitamento do tempo e designar profissionais qualificados para realizar as mesmas.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
+R:  Inicia pela parte de analise de requisitos, diagramas de classes, diagramas de uso, desenvolvimento, testes, implantação, uso final
 
 10)	Explique para que serve e as principais funcionalidades do Trello
 
