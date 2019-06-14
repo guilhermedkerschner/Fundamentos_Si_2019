@@ -1,6 +1,7 @@
 1)	O que é o insumo, ou entrada, em um sistema de informação?
+R:  Todo qualquer dado introduzido ao sistema, afim de alimentar o sistema.
 
-2)	Onde podemos coletar dados para sistemas alimentar sistemas? Explique e cite exemplos.
+2)	Onde podemos coletar dados para alimentar sistemas? Explique e cite exemplos.
 
 3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
 
@@ -21,3 +22,4 @@
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
 12)	Explique para que serve e as principais funcionalidades do Github.
+
