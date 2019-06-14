@@ -23,6 +23,7 @@ R:  Dados do Emitente (você); Dados do Destinatário (seu cliente); Produto(s) 
 R:  Mantém o código fonte centralizado e seguro; Facilita trabalho em equipes uma vez que todos possuem acesso ao mesmo código; Realiza ‘merges’ automáticos, o que facilita a integração do código entre membros da equipe; Mantém histórico com todas as alterações realizadas; Permite retornar uma versão anterior do código com facilidade; Permite integração com servidores de integração contínua, utilizado para automatizar o processo de deploy da aplicação
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
+R:  Melhor distribuição de tarefas, melhor aproveitamento do tempo e designar profissionais qualificados para realizar as mesmas.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 
