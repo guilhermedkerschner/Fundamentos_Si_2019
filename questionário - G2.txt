@@ -29,6 +29,7 @@ R:  Melhor distribuição de tarefas, melhor aproveitamento do tempo e designar 
 R:  Inicia pela parte de analise de requisitos, diagramas de classes, diagramas de uso, desenvolvimento, testes, implantação, uso final
 
 10)	Explique para que serve e as principais funcionalidades do Trello
+R:  O Trello é um sistema de quadro virtual para gerenciamento de tarefas que segue o método "kanban", muito usado no desenvolvimento com Scrum. Ele permite a criação de diversos quadros, nos quais podemos criar quantas colunas quisermos.
 
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
